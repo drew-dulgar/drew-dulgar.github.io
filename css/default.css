@@ -80,13 +80,13 @@ DEFAULT BOX
 .box{
   margin-bottom: 15px;
 }
-.box h2{
+.box h3{
   color: #EC7263;
   font-weight: 700;
   text-transform: uppercase;
 }
-.box h2:before{
-  content: '//';
+.box h3:before{
+  content: ':: ';
   margin-right: 5px;
 }
 .box p{
