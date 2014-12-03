@@ -23,13 +23,13 @@ body{
   font-weight: 400;
   font-size: 1em;
   color: #363636;
-  background: #ededed;
+  background: #317eac;
 }
 /*******************************************
 CONTAINER
 *******************************************/
 .container{
-  margin-top: 80px;
+  //margin-top: 80px;
   margin-bottom: 15px;
   background: #fff;
 }
@@ -37,7 +37,7 @@ CONTAINER
 PHOTO (AVATAR)
 *******************************************/
 #photo-header{
-  margin-top: -75px;
+  //margin-top: -75px;
 }
 #photo{
   width: 160px;
