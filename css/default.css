@@ -202,15 +202,11 @@ CONTACT
 .contact-item{
   width: 100%;
   float: left;
+  border-bottom:1px solid #aaa;
 }
 .contact-item .icon{
   padding: 10px;
-  border-left: 1px solid #aaa;
-  border-right: 1px solid #aaa;
-  border-top: 1px solid #aaa;
-}
-.contact-item .icon:last {
-border-bottom:1px solid #aaa;
+  color:#aaa;
 }
 
 .contact-item .icon .contact-item-icon-hover {
