@@ -32,10 +32,10 @@ CONTAINER
   margin-top: 80px;
   margin-bottom: 15px;
   background: #fff;
-  -webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
+  -webkit-filter: drop-shadow(10px 10px 25px rgba(0,0,0,0.5));
   filter: url(shadow.svg#drop-shadow);
-  -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12,Color='#444')";
-  filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10,Color='#444')";
+  filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10, Color='#444')";
 }
 /*******************************************
 PHOTO (AVATAR)
