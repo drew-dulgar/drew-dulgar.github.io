@@ -7,7 +7,7 @@ $(document).ready(function()
   
   $('.contact-section').on('mouseleave', '.contact-item', function() 
   {
-    $('.icon .fa', $(this)).addClass('contact-item-icon-hover');
+    $('.icon .fa', $(this)).removeClass('contact-item-icon-hover');
   });
   
 });
