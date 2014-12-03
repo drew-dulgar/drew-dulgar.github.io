@@ -56,22 +56,23 @@ PHOTO (AVATAR)
   height: 150px;
   border-radius: 50%;
 }
-#text-header h2{
+#text-header h1{
   margin: 0;
   padding: 0;
+  font-size:2.2em;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: -1px;
 }
-#text-header h2::first-line{
+#text-header h1::first-line{
   letter-spacing: -4px;
   font-weight: 800;
   line-height: 1.5em;
 }
-#text-header h2 span{
+#text-header h1 span{
   color: #F0563D;
 }
-#text-header h2 sup{
+#text-header h1 sup{
   opacity: 0.5;
 }
 /*******************************************
