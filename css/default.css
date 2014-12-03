@@ -73,14 +73,6 @@ PHOTO (AVATAR)
 #text-header h1 sup{
   opacity: 0.5;
 }
-#text-header:after{
-  width: 100%;
-  height: 3px;
-  background: url(../img/line.png);
-  margin-top: 15px;
-  content: '';
-  display: block;
-}
 /*******************************************
 DEFAULT BOX
 *******************************************/
