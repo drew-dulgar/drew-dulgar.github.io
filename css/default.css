@@ -15,7 +15,7 @@ body{
   font-family: 'Open Sans', Arial, Tahoma;
   font-weight: 400;
   color: #363636;
-  /*background: #317eac;*/
+  background: #317eac;
 }
 /*******************************************
 CONTAINER
@@ -24,9 +24,9 @@ CONTAINER
   margin-top: 65px;
   margin-bottom: 30px;
   background: #fff;
-  -webkit-filter: drop-shadow(10px 10px 25px rgba(0,0,0,0.5));
+  /*-webkit-filter: drop-shadow(10px 10px 25px rgba(0,0,0,0.5));
   -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10,Color='#444')";
-  filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10, Color='#444')";
+  filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10, Color='#444')";*/
 }
 /*******************************************
 PHOTO (AVATAR)
