@@ -305,37 +305,6 @@ HOBBIES
   top: 6px;
   left: 7px;
 }
-/*******************************************
-MEDIA
-*******************************************/
-@media (min-width: 500px) {
-  #education .description,
-  #professional-development .description
-  {
-    width: 85%;
-  }
-  
-}
-@media (min-width: 768px) {
-  #education .description,
-  #professional-development .description{
-    width: 85%;
-  }
-}
-@media (min-width: 992px) {
-  #education .description,
-  #professional-development .description{
-    width: 87%;
-  }
-}
-@media (min-width: 1200px) {
-  #education .description,
-  #professional-development .description{
-    width: 90%;
-  }
-}
-
-
 
 /* TIMELINE */
 .timeline {
