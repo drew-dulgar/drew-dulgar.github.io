@@ -245,14 +245,18 @@ SKILLS
     -webkit-border-radius: 3px;
 }
 
-.skillbar-bar.skillbar-sub
+.skillbar-sub
 {
     margin-left:30px;
     width:inherit;
 }
 
-.skillbar-bar.skillbar-sub .skillbar-title {
+.skillbar-sub .skillbar-title {
     width:120px;
+}
+
+.skillbar-sub .skillbar-bar {
+	min-width:120px;
 }
 
 
