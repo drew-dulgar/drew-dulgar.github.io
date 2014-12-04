@@ -133,17 +133,6 @@ CONTACT
 /*******************************************
 SKILLS
 *******************************************/
-.item-skills{
-  height: 30px;
-  background: #F0563D;
-  color: #fff;
-  padding: 5px 10px;
-  margin-bottom: 5px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  font-weight: 600;
-}
 .skills-legend{
   margin-top: 20px;
   opacity: 0.8;
