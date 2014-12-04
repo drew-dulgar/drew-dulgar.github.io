@@ -136,6 +136,7 @@ SKILLS
 .skills-legend{
   margin-top: 20px;
   opacity: 0.8;
+  margin-left:110px;
 }
 .skills-legend:before{
   width: 100%;
@@ -151,6 +152,7 @@ SKILLS
   color: #a9a9a9;
   float: left;
 }
+
 .legend:before{
   width: 3px;
   height: 10px;
