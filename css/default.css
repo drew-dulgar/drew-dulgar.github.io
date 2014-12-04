@@ -25,12 +25,8 @@ CONTAINER
   margin-bottom: 30px;
   background: #fff;
   
-  -webkit-box-shadow:10px 10px 25px rgba(0,0,0,0.5);
-  box-shadow:10 10px 25px rgba(0,0,0,0.5);
-  
-  /*-webkit-filter: drop-shadow(10px 10px 25px rgba(0,0,0,0.5));
-  -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10,Color='#444')";
-  filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=10, OffY=10, Color='#444')";*/
+  -webkit-box-shadow:0px 0px 50px rgba(0,0,0,0.5);
+  box-shadow:0px 0px 50px rgba(0,0,0,0.5);
 }
 /*******************************************
 PHOTO (AVATAR)
