@@ -240,6 +240,9 @@ SKILLS
 .skills-additional
 {
     margin:0px 0px 5px 130px;
+    border-radius: 0px;
+    border-bottom-radius: 3px;
+    border-top: none;    
 }
 
 /*******************************************
