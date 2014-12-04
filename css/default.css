@@ -61,14 +61,8 @@ PHOTO (AVATAR)
   padding: 0;
   font-size:1.8em;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: -1px;
 }
-#text-header h1::first-line{
-  letter-spacing: -4px;
-  font-weight: 800;
-  line-height: 1.5em;
-}
+
 #text-header h1 span{
   color: #F0563D;
 }
