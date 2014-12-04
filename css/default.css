@@ -140,7 +140,7 @@ SKILLS
 .skills-legend{
   margin-top: 20px;
   opacity: 0.8;
-  margin-left:110px;
+  margin-left:150px;
 }
 .skills-legend:before{
   width: 100%;
@@ -209,7 +209,7 @@ SKILLS
     position: absolute;
     top: 0;
     left: 0;
-    width: 110px;
+    width: 150px;
     font-weight: bold;
     font-size: 13px;
     color: #ffffff;
@@ -237,13 +237,25 @@ SKILLS
 }
 
 .skillbar-bar {
-    min-width:110px;
+    min-width:150px;
     height: 25px;
     width: 0px;
     border-radius: 3px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
 }
+
+.skillbar-bar.skillbar-sub
+{
+    margin-left:30px;
+    width:inherit;
+}
+
+.skillbar-bar.skillbar-sub .skillbar-title {
+    width:120px;
+}
+
+
 
 /*******************************************
 Experience
