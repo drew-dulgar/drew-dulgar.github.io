@@ -88,23 +88,7 @@ DEFAULT BOX
 
 }
 
-/*******************************************
-EXPERIENCES
-*******************************************/
-.job{
-  margin-bottom: 15px;
-}
-.job .where{
-  font-weight: bold;
-}
-.job .year{
-  opacity: 0.7;
-}
-.job .profession{
-  font-weight: bold;
-}
-.job .description{
-}
+
 /*******************************************
 CONTACT
 *******************************************/
