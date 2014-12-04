@@ -76,13 +76,17 @@ DEFAULT BOX
   margin-bottom: 15px;
 }
 .box h2{
-  color: #EC7263;
+  color: #F0563D;
   font-weight: 700;
   font-size:1.6em;
 }
 .box h2:before{
-  content: '::';
-  margin-right: 5px;
+  content: '<';
+  margin-right: 1px;
+}
+.box h2:after{
+ content: '>';
+ margin-left: 1px;
 }
 .box p{
 
