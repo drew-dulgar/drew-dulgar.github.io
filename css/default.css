@@ -178,7 +178,6 @@ SKILLS
 .skillbar {
     position: relative;
     display: block;
-    margin-bottom: 15px;
     width: 100%;
     background: #eee;
     height: 25px;
@@ -237,10 +236,9 @@ SKILLS
     -webkit-border-radius: 3px;
 }
 
-.skillbar-sub
+.skillbar-additional
 {
-    margin-left:30px;
-    width:inherit;
+    margin:0px 0px 5px 30px;
 }
 
 /*******************************************
@@ -296,7 +294,9 @@ HOBBIES
   left: 7px;
 }
 
-/* TIMELINE */
+/*******************************************
+TIMELINE
+*******************************************/
 .timeline {
 	list-style:none;
 	padding:20px 0;
@@ -474,4 +474,39 @@ HOBBIES
 		left:-14px;
 		right:auto;
 	}
+}
+
+/*******************************************
+SKILL COLORS
+*******************************************/
+.color-html {
+    background:#16a085;
+}
+
+.color-css {
+    background:#2980b9;
+}
+
+.color-php {
+    background:#8892BF;
+}
+
+.color-coldfusion {
+    background:#007DD8;
+}
+
+.color-ruby {
+    background:#CC342D;
+}
+
+.color-javascript {
+    background: #0095dd;
+}
+
+.color-mysql { 
+    background:#015a84;
+}
+
+.color-sql-server {
+    background:#ba141a;
 }
