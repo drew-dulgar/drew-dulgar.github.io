@@ -132,7 +132,7 @@ SKILLS
 .skills-legend{
   margin-top: 20px;
   opacity: 0.8;
-  margin-left:150px;
+  margin-left:130px;
 }
 .skills-legend:before{
   width: 100%;
@@ -201,7 +201,7 @@ SKILLS
     position: absolute;
     top: 0;
     left: 0;
-    width: 150px;
+    width: 130px;
     font-weight: bold;
     font-size: 13px;
     color: #ffffff;
@@ -229,7 +229,7 @@ SKILLS
 }
 
 .skillbar-bar {
-    min-width:150px;
+    min-width:130px;
     height: 25px;
     width: 0px;
     border-radius: 3px;
@@ -239,7 +239,7 @@ SKILLS
 
 .skills-additional
 {
-    margin:0px 0px 5px 150px;
+    margin:0px 0px 5px 130px;
 }
 
 /*******************************************
