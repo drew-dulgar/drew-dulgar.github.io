@@ -15,7 +15,7 @@ body{
   font-family: 'Open Sans', Arial, Tahoma;
   font-weight: 400;
   color: #363636;
-  //background: #317eac;
+  /*background: #317eac;*/
 }
 /*******************************************
 CONTAINER
@@ -354,8 +354,8 @@ HOBBIES
 	border-radius:2px;
 	padding:20px;
 	position:relative;
-	//-webkit-box-shadow:0 1px 6px rgba(0,0,0,0.175);
-	//box-shadow:0 1px 6px rgba(0,0,0,0.175);
+	/*-webkit-box-shadow:0 1px 6px rgba(0,0,0,0.175);
+	box-shadow:0 1px 6px rgba(0,0,0,0.175);*/
 }
 
 .timeline > li > .timeline-panel:before {
