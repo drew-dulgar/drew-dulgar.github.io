@@ -48,7 +48,7 @@ PHOTO (AVATAR)
   border-radius: 50%;
   overflow: hidden;
   padding: 5px;
-  background: #ededed;
+  background: inherit;
   display: inline-block;
 }
 #photo img{
@@ -78,11 +78,11 @@ DEFAULT BOX
 .box h2{
   color: #EC7263;
   font-weight: 700;
-  font-size:1.4em;
+  font-size:1.6em;
 }
 .box h2:before{
-  //content: '//';
-  //margin-right: 5px;
+  content: '::';
+  margin-right: 5px;
 }
 .box p{
 
