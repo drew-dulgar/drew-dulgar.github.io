@@ -70,7 +70,7 @@ DEFAULT BOX
 .box h2{
   color: #F0563D;
   font-weight: 700;
-  font-size:1.6em;
+  font-size:1.4em;
 }
 .box h2:before{
   content: '<';
@@ -235,6 +235,12 @@ SKILLS
     border-radius: 3px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
+}
+
+.skillbar-bar .skillbar-experience {
+	display:inline-block;
+	margin:2px 0 0 150px;
+	color:#e6e6e6;
 }
 
 .skills-additional
@@ -491,4 +497,8 @@ SKILL COLORS
 
 .color-sql-server {
     background:#ba141a;
+}
+
+.color-server {
+	background:#c4c4c4;
 }
