@@ -24,7 +24,7 @@ CONTAINER
   margin-top: 65px;
   margin-bottom: 30px;
   background: #fff;
-  
+
   -webkit-box-shadow:0px 0px 50px rgba(0,0,0,0.5);
   box-shadow:0px 0px 50px rgba(0,0,0,0.5);
 }
@@ -248,24 +248,24 @@ SKILLS
     margin:0px 0px 5px 130px;
     border-radius: 0px;
     border-bottom-radius: 3px;
-    border-top: none;    
+    border-top: none;
 }
 
 /*******************************************
 Experience
 *******************************************/
-#experience { 
-	
+#experience {
+
 }
 
-#experience h2 { 
-	color:#3f903f;	
+#experience h2 {
+	color:#3f903f;
 }
 /*******************************************
 Education
 *******************************************/
-#education { 
-		
+#education {
+
 }
 
 #education h2 {
@@ -276,7 +276,7 @@ Education
 Professional Development
 *******************************************/
 #professional-development {
-	
+
 }
 
 #professional-development h2 {
@@ -432,30 +432,30 @@ TIMELINE
 	ul.timeline:before {
 		left:40px;
 	}
-	
+
 	ul.timeline > li > .timeline-panel {
 		width:calc(100% - 90px);
 		width:-moz-calc(100% - 90px);
 		width:-webkit-calc(100% - 90px);
 	}
-	
+
 	ul.timeline > li > .timeline-badge {
 		left:15px;
 		margin-left:0;
 		top:16px;
 	}
-	
+
 	ul.timeline > li > .timeline-panel {
 		float:right;
 	}
-	
+
 	ul.timeline > li > .timeline-panel:before {
 		border-left-width:0;
 		border-right-width:15px;
 		left:-15px;
 		right:auto;
 	}
-	
+
 	ul.timeline > li > .timeline-panel:after {
 		border-left-width:0;
 		border-right-width:14px;
@@ -491,7 +491,7 @@ SKILL COLORS
     background: #0095dd;
 }
 
-.color-mysql { 
+.color-mysql {
     background:#015a84;
 }
 
@@ -501,4 +501,8 @@ SKILL COLORS
 
 .color-server {
 	background:#c4c4c4;
+}
+
+.color-cicd {
+  background: #1997b5;
 }
